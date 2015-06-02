@@ -1,4 +1,6 @@
-# Yasnippet official snippet collections
+# zbeekman's fork of the Yasnippet official snippet collections
+
+Except for this paragraph and the previous line of this README, the master branch will remain unchanged. All work will be done in topic/feature branches. I'll open PRs upstream to contribute my changes back to the community.
 
 [![Join the chat at https://gitter.im/AndreaCrotti/yasnippet-snippets](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AndreaCrotti/yasnippet-snippets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This repository contains the official snippets for [yasnippet](http://github.com/capitaomorte/yasnippet), as you can see from the git submodules link.
