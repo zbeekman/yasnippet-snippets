@@ -1,6 +1,6 @@
-# -*- mode: snippet -*-
+# -*- mode: snippet; require-final-newline: nil -*-
 # contributor: Jonas Kalderstam <jonas@kalderstam.se>
-# name: where ... end where ...
+# name: where ... end where
 # key: where
 # --
 

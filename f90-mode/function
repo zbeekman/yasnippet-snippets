@@ -1,6 +1,6 @@
-# -*- mode: snippet -*-
+# -*- mode: snippet; require-final-newline: nil -*-
 # contributor: Jonas Kalderstam <jonas@kalderstam.se>
-# name: function ... end function ...
+# name: function ... end function
 # key: function
 # --
 function ${1:name} (${2:arg})

@@ -1,6 +1,6 @@
-# -*- mode: snippet -*-
+# -*- mode: snippet; require-final-newline: nil -*-
 # contributor: Jonas Kalderstam <jonas@kalderstam.se>
-# name: do ... end do ...
+# name: do ... end do
 # key: do
 # --
 do $1

@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: snippet; require-final-newline: nil -*-
 # contributor: Jonas Kalderstam <jonas@kalderstam.se>
 # name: subroutine .. end subroutine
 # key: subroutine

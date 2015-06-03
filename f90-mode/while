@@ -1,6 +1,6 @@
-# -*- mode: snippet -*-
+# -*- mode: snippet; require-final-newline: nil -*-
 # contributor: Jonas Kalderstam <jonas@kalderstam.se>
-# name: while ... end while ...
+# name: while ... end while
 # key: while
 # --
 do while (${1:condition})
